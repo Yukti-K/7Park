@@ -1,3 +1,5 @@
+# Analysis and prediction of Zillow Observed Rental Index (ZORI)
+
 **Objective** : The goal of this project is to initially predict the Zillow Observed Rent Index (ZORI) values using data modeling.
 
 **Measurement of success** : The performance of our model will be tested using metrics such as R2 and mean squared error.
