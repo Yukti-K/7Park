@@ -29,7 +29,7 @@
 - [Gabriela Huelgas Morales](https://github.com/ghuelgas): PhD in biomedical sciences
 - [Juan Vasquez](https://github.com/hello-juan): Operations professional
 - [Yukti Kathuria](https://github.com/Yukti-K): MS in Aerospace Engineering
-- [Guillermo Ruiz](https://github.com/GuilleRuizC): 
+- [Guillermo Ruiz](https://github.com/GuilleRuizC): MS in Economics
 
 **Folder breakdown in repository**
 
