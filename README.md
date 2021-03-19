@@ -29,7 +29,7 @@
 - [Gabriela Huelgas Morales](https://github.com/ghuelgas): PhD in biomedical sciences
 - [Juan Vasquez](https://github.com/hello-juan): Operations professional
 - [Yukti Kathuria](https://github.com/Yukti-K): MS in Aerospace Engineering
-- Guillermo Ruiz
+- [Guillermo Ruiz](https://github.com/GuilleRuizC): 
 
 **Folder breakdown in repository**
 
@@ -37,3 +37,4 @@
 - Gabriela: SQL Exercise rough code
 - Juan: EDA on ACS zipcode data, some preliminary SQL test code
 - Yukti: EDA on ACS zipcode data, some preliminary SQL test code
+- Guille: EDA code on ACS zipcode data
