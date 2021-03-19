@@ -38,3 +38,4 @@
 - Juan: EDA on ACS zipcode data, some preliminary SQL test code
 - Yukti: EDA on ACS zipcode data, some preliminary SQL test code
 - Guille: EDA code on ACS zipcode data
+- SQL_exercises: Final code for SQL task
