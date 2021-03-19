@@ -25,10 +25,10 @@
 
 **Our Team**
 
-- Chitra Sharathchandra: Software developer
-- Gabriela Huelgas Morales: PhD in biomedical sciences
-- Juan Vasquez: Operations professional
-- Yukti Kathuria: MS in Aerospace Engineering
+- [Chitra Sharathchandra](https://github.com/sharathc10): Software developer
+- [Gabriela Huelgas Morales](https://github.com/ghuelgas): PhD in biomedical sciences
+- [Juan Vasquez](https://github.com/hello-juan): Operations professional
+- [Yukti Kathuria](https://github.com/Yukti-K): MS in Aerospace Engineering
 - Guillermo Ruiz
 
 **Folder breakdown in repository**
