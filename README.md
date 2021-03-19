@@ -1,10 +1,10 @@
 # Analysis and prediction of Zillow Rental Index (ZRI)
 
-**Objective** : The goal of this project is to initially predict the Zillow Observed Rent Index (ZORI) values using data modeling.
+**Objective** : The goal of this project is to initially predict the Zillow Rent Index (ZRI) values using data modeling.
 
 **Measurement of success** : The performance of our model will be tested using metrics such as R^2 and mean squared error.
 
-**Scope** : The model will be applied to housing data by zip codes from the American Community Survey years 2010-2020 and the datasets provided by 7Park Data and used to predict the ZORI for 2021. The population includes multifamily homes across the United States.
+**Scope** : The model will be applied to housing data by zip codes from the American Community Survey years 2010-2020 and the datasets provided by 7Park Data and used to predict the ZRI for 2021. The population includes multifamily homes across the United States.
 
 **Data Aggregation** : By zipcodes
 
