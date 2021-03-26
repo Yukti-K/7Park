@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adept-comfort-307720",
+  "private_key_id": "db5f8ca3ee468bf1d10e059c8cc4d5146c215e7e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC01zqhOLKEcJJJ\nWO+VCcLw6zctxz+c2vuinFVylOh5Z4H6LOi/rD9whtszIVp7Rai3qvp4izP2z049\nUw76aLHIzs5u1djL1xzQsviSecexNH/isHN76VuKJawd4gCfZtTkPCFXDPToOSO3\nGOcTtUXRaP06iNdzJClllN0qOEqyax/rARVLNyKtEur7n9ZgqKS8G8BkBN7fAEHN\n+pZZyupKU4KHwqPBzSPRS6G+Drv2gv2MlaF5vvVcAoUM+dXcw8fII61eWXi6mdVx\nSYFZNM3Kt25lC/GunjGsQfRjRznKCnVgT/gn1dTI8oUOrwWeUYQjfGMmhG+rhNoq\nAJDFg2yFAgMBAAECggEABUX8cpyZD2XKokMVaMVvhD/RAgT8J3phmZ47m1CDz0cp\nLLmCslTXHGnWT7FNNpMzW7hrlDh3nrQbXjbt6iKY7UKN6wCnO9nNQDm5KBOkiC1A\nKG+y9734Onj67KZ9Pv4MPw6Q01LFpoBEuMS2t6X9f/aINzIr2YfzAWsRSvdNbafy\nTnrBP2QYWVA9L0aNDay9nGY3i5oble8ui0lGNmVAplhb674yOFmoxhd+/Ka94rz8\nSMTcFZbnWznduVZ3kwOcU8ExVohgwMuC51GJ8GajSQerQCGDs7aWY+OrIpg1sGKa\ngAuTNvOyCzy0rTPA8gPGFqlSW9Avhszo5IHbBEgdYQKBgQDlchOejvh9tZ6nA8zJ\n1nJXYnzGV9YM8vbhD8K2VXVFxecsliAM1xDJlLzIXg69AW4Ff52F++PBXznWwZnM\nA+6SurMPqmIE/frht27lHSW0BYEJy5X1Nd/ZV98uG1UiaSGi6R/lbo0Tv/iFrmkE\n9N+oKGPrGbF8B1zwRJ89z1EVZQKBgQDJxRtEumPw8VjwWCx8tV+T9Zcri8nWTa04\nLl/cZlPfcdA4PJy2Kr/GKOtySaeUk7xjTcA2OPilpHSE1IrQxfnmF7fj5iBWUlNJ\nCKN8ksjqo+WuRK0evrJMKkV1FHjEkfniIS2mQspSr+hLI+QmlHlE0iDfOOxEuDlp\n4/C+Ev2YoQKBgQDGlnTasJ3smAyoO4a9T0mJzql2NkIC1SvO4ghCLjchW8fZdFpr\nIp3aC01WEuqothsW0Txy4fBfxt7VvJ0z0ldkUgl3Tp4l+flx8YUe8ppWdMkZxEaX\nhLipcf+t9WQ7M0k0qpe7yXJ7nJUqhylIa/VEoyjQLF3MnsbXAl3dbpmcbQKBgQCa\njsxWl1jbRmVUppZdaSov0t7b0pbn/FSGRq/TyubQsQRJL9Tzjkec6deBkn42R/z1\nLKfiYT3G1PUUkyNKzXyiDuUkRDHdLe7ycRWa5W3Wn3nfRmg+tuEpiu/twaLJIPED\nkVrAk0UclfchJ/squm0ylKvtklMaSOxh+uN9FlsAQQKBgQDRlkBu+s8xjynhsCWT\ntRaETwMr9Fen1D1DVVpRKW2U8wbRwsDF7KXjuDNmHBXS6MgcyY/3ljT8hOiBvhpo\nAGBhowdIT0D0Ej8RNlP9RfnC3dOGKwHgByXJ4eSVXnyrJBqfCtWvGmdL4BPtEjax\nSDSPuXYOsgPmVGIDiUSua3LnDA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gabriela-huelgas-morales@adept-comfort-307720.iam.gserviceaccount.com",
+  "client_id": "114764432319710982349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gabriela-huelgas-morales%40adept-comfort-307720.iam.gserviceaccount.com"
+}
