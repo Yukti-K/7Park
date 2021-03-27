@@ -32,7 +32,7 @@
 
 **Folder breakdown in repository**
 
-- Chitra: SQL Exercise rough code, Phoenix feature extraction and analysis, EDA
+- Chitra: SQL Exercise rough code, Phoenix feature extraction and analysis, EDA, Cluster analysis
 - Gabriela: SQL Exercise rough code, Modeling nationwide ACS/ZRI data, Phoenix EDA and residual modeling
 - Juan: EDA on ACS zipcode data, some preliminary SQL test code, Phoenix Rent growth rate 
 - Yukti: EDA on ACS zipcode data, some preliminary SQL test code, Feature engineering for Phoenix,
