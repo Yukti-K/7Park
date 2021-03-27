@@ -4,13 +4,13 @@
 
 **Measurement of success** : The performance of our model will be tested using metrics such as R^2 and mean squared error.
 
-**Scope** : The model will be applied to housing data by zip codes from the American Community Survey years 2010-2020 and the datasets provided by 7Park Data and used to predict the ZRI for 2021. The population includes multifamily homes across the United States.
+**Scope** : The model will be applied to housing data by zip codes from the American Community Survey years 2015-2017 and the datasets provided by 7Park Data and used to predict the ZRI for 2018-2020. The population includes all homes across two cities, Phoenix and Tampa.
 
-**Data Aggregation** : By zipcodes
+**Data Aggregation** : By zipcodes for cities Phoenix and Tampa
 
-**Target variable** : ZORI 
+**Target variable** : ZRI 
 
-**Tools** : Google BigQuery, Jupyter Notebook, Rstudio, Plotly maps
+**Tools** : Google BigQuery, Jupyter Notebook
 
 **Analysis/Machine Learning** 
 - Missingness/Imputation, 
@@ -20,8 +20,7 @@
 - Ridge/Lasso regression, 
 - Tree ensembles, 
 - Boosting, 
-- Time series analysis, 
-- Data Pipelining.
+- Statistical Analysis.
 
 **Our Team**
 
@@ -33,9 +32,9 @@
 
 **Folder breakdown in repository**
 
-- Chitra: SQL Exercise rough code
-- Gabriela: SQL Exercise rough code
-- Juan: EDA on ACS zipcode data, some preliminary SQL test code
-- Yukti: EDA on ACS zipcode data, some preliminary SQL test code
-- Guille: EDA code on ACS zipcode data
+- Chitra: SQL Exercise rough code, Phoenix feature extraction and analysis, EDA
+- Gabriela: SQL Exercise rough code, Modeling nationwide ACS/ZRI data, Phoenix EDA and residual modeling
+- Juan: EDA on ACS zipcode data, some preliminary SQL test code, Phoenix Rent growth rate 
+- Yukti: EDA on ACS zipcode data, some preliminary SQL test code, Feature engineering for Phoenix,
+- Guille: EDA code on ACS zipcode data, Modeling and Statistical Analysis for Phoenix
 - SQL_exercises: Final code for SQL task
