@@ -1,14 +1,26 @@
-# Analysis and prediction of Zillow Rental Index (ZRI)
+# A Tale Of Two Cities
 
-**Objective** : The goal of this project is to initially predict the Zillow Rent Index (ZRI) values using data modeling.
+**Objective** : The goal of this project is to gain insights on important factors that influence the rental values of homes and apartments in Phoenix and Tampa. 
 
-**Measurement of success** : The performance of our model will be tested using metrics such as R^2 and mean squared error.
+**Measurement of success** : The performance of our model will be tested using mean squared error. 
 
-**Scope** : The model will be applied to housing data by zip codes from the American Community Survey years 2015-2017 and the datasets provided by 7Park Data and used to predict the ZRI for 2018-2020. The population includes all homes across two cities, Phoenix and Tampa.
+**Questions to answer** :
+- What are the similarities and differences in the rental markets in Phoenix and Tampa?
+- How accurately can the model from one city predict rental values in the other?
+- How important are historical rental values to predict future ones?
+- What factors drive the prediction of rental values in each market?
+- What actionable insights can be derived from our analysis? For example, can we increase the rental prices in certain zipcodes if historical data tends to underestimate the rental value.
 
+**Data Sources**
+- **Zillow Historical ZRI Data Multi Family Homes**
+   Historical ZRI data from 10/2010 - 1/2021
+- **Google Bigquery**
+  Data from geo_us_boundaries
+  Data from ACS
+  
 **Data Aggregation** : By zipcodes for cities Phoenix and Tampa
 
-**Target variable** : ZRI 
+**Target variable** : Zillow Rental Index (ZRI) 
 
 **Tools** : Google BigQuery, Jupyter Notebook
 
@@ -16,11 +28,11 @@
 - Missingness/Imputation, 
 - Feature Selection, 
 - Feature Engineering, 
-- Multiple Linear Regression, 
 - Ridge/Lasso regression, 
 - Tree ensembles, 
 - Boosting, 
-- Statistical Analysis.
+- Statistical Analysis,
+- Residual Analysis
 
 **Our Team**
 
